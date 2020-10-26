@@ -1,6 +1,6 @@
 # Generating Bernoulli random variables
 
-We are now going to try to write a program to generate Bernoulli random variables.  Remember the probablity mass function for a Bernoulli random variable is given by:
+We are now going to try to write a program to generate Bernoulli random variables.  Remember the probablity mass function for a Bernoulli random variable, X, is given by:
 
 ![](https://render.githubusercontent.com/render/math?math=P(X=0)=(1-p)\qquad\P(X=1)=p)
 

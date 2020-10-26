@@ -12,4 +12,4 @@ To complete this exercise you are going to need to use all the ideas that we hav
  
 - You will then need to use a conditional (if) statement to decide whether the program should return a 1 (indicating that the trial was successful) or a 0 (indicating that the trial was a failure).  This decision on whether the trial was a success or a failure will be made based on the value obtained when you generated your uniform random variable. 
 
-For an explanation of how this function should work see ![this video](https://www.youtube.com/watch?v=WJcuKYJK6rw)
+For an explanation of how this function should work see [this video](https://www.youtube.com/watch?v=WJcuKYJK6rw)

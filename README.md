@@ -2,7 +2,7 @@
 
 We are now going to try to write a program to generate Bernoulli random variables.  Remember the probablity mass function for a Bernoulli random variable is given by:
 
-![](https://render.githubusercontent.com/render/math?math=P(X=x)=\begin{cases}(1-p)&\textrm{if}\quad\x=0\end{cases})
+![](https://render.githubusercontent.com/render/math?math=P(X=0)=(1-p)\qquad\P(X=1)=p\qquadP(X=x)=0\quad\forall\x\ne\0\wedge\x\ne\1)
 
 To complete this exercise you are going to need to use all the ideas that we have covered in the other parts of these programming exercise as:
 

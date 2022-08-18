@@ -17,6 +17,6 @@ class UnitTests(unittest.TestCase) :
         for i in range(1,9) :
             p = i*0.1
             inputs.append((i*0.1,))
-            myvar = randomvar( p, variance=p*(1-p), vmin=0, vmax=1, isinteger=True )
+            myvar = randomvar( p, variance=p*(1-p), vmin=0, vmax=1, isinteger=True, nsamples=100 )
             variables.append( myvar )
         assert( check_func('bernoulli',inputs, variables ) )

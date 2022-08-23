@@ -3,7 +3,7 @@
 We are now going to try to write a program to generate Bernoulli random variables.  Remember the probablity mass function for a Bernoulli random variable, X, is given by:
 
 $$
-P(X=0)=(1-p)\qquad\P(X=1)=p
+P(X=0)=(1-p)\qquad P(X=1)=p
 $$
 
 To complete this exercise you are going to need to use all the ideas that we have covered in the other parts of these programming exercise as:

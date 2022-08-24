@@ -7,6 +7,7 @@ P(X=x)=\begin{cases}
 (1-p) & \textrm{if} \quad x=0 \\
 p & \textrm{if} \quad x=1 \\ 
 0 & \textrm{otherwise}
+\end{cases}
 $$
 
 To complete this exercise you are going to need to use all the ideas that we have covered in the other parts of these programming exercise as:
